@@ -1,0 +1,6 @@
+{
+  "name": "数パー",
+  "description": "2D手書き入力アドベンチャーRPG『数パー』のゲーム企画書スライドショー",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
